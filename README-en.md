@@ -91,7 +91,7 @@ Now just have some fun and move it a lot! 🚀
 - Save your updates and create a commit message telling what you did:`git commit -m "feature: My new feature"`;
 - Send your updates: `git push origin my-feature`.
 
-> In case you have some doubt take a looj at this link [guide on how to contribute on GitHub](https://github.com/firstcontributions/first-contributions).
+> In case you have some doubt take a look at this link [guide on how to contribute on GitHub](https://github.com/firstcontributions/first-contributions).
 
 Each change is welcome, please, feel at ease! ☺
 
