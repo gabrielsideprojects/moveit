@@ -75,10 +75,10 @@ $ git clone https://github.com/gabrielsideprojects/moveit.git
 $ cd moveit-next
 
 #Install the dependencies
-$ yarn install ou npm install
+$ yarn install or npm install
 
 #Run locally
-$ yarn dev
+$ yarn dev or npm dev
 
 # The application will run in the port:3000 - access http://localhost:3000 in the browser you desire.
 ```

@@ -78,7 +78,7 @@ $ cd moveit-next
 $ yarn install ou npm install
 
 #Rode localmente
-$ yarn dev
+$ yarn dev ou npm dev
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000 em qualquer browser.
 ```
