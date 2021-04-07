@@ -29,7 +29,6 @@
     <img src="https://img.shields.io/static/v1?color=yellow&label=Javascript&message=JS&?style=plastic&logo=Javascript">
   </a>  
 </p>
- <p align="center"> Esse projeto foi desenvolvido com 💜 por Gabriel Menezes</p>
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-interfaces">Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -37,11 +36,12 @@
   <a href="#-como-contribuir-para-o-projeto">Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-melhorias-futuras">Melhorias</a>&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center"><a target="_blank" href="./README-en.md">Read in english 🇺🇸</a></p>
 
 ## 🧠  **Sobre o projeto**
 <p>
 <img src="./public/favicon.png" alt="favicon" width="20" style="float:left;"/>
-  &nbsp;<a target="_blank" href="https://moveitnow-phi.vercel.app">Moveitnow</a> é um projeto feito para quem passa muito tempo no computador. Utilizando a metodologia de produtividade <a target="_blank" href="https://www.youtube.com/watch?v=hfxfJ7Qa4sg">Pomodoro 🍅</a>, a cada intervalo de descanso, é mostrado um exercício físico que deve ser feito para quando o usuário voltar ao trabalho, a sua produtivida ir para o próximo level. 🚀
+  &nbsp;<a target="_blank" href="https://moveitnow-phi.vercel.app">Moveitnow</a> é um projeto feito para quem passa muito tempo no computador. Utilizando a metodologia de produtividade <a target="_blank" href="https://www.youtube.com/watch?v=hfxfJ7Qa4sg">Pomodoro 🍅</a>, a cada intervalo de descanso, é mostrado um exercício físico que deve ser feito para quando o usuário voltar ao trabalho, a sua produtividade ir para o próximo level. 🚀
 
   Esse projeto foi desenvolvido durante a NLW04, semana de ensino de programação oferecida pela <a target="_blank" href="https://rocketseat.com.br">Rocketseat</a> 💜.
 </p>
@@ -108,6 +108,10 @@ Qualquer mudança é bem vinda, sinta-se à vontade! ☺
 - Criar ranking.
 - Criar app (Android e iOS).
 - Adicionar testes com jest.
+
+--------
+<br/>
+<p align="center"> Esse projeto foi desenvolvido com 💜 por Gabriel Menezes</p>
 
 
 
