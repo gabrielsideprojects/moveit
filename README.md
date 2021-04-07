@@ -34,8 +34,8 @@
   <a href="#-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-interfaces">Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar-o-projeto">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-como-contribuir-para-o-projeto">Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
+  <a href="#-como-contribuir-para-o-projeto">Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-melhorias-futuras">Melhorias</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🧠  **Sobre o projeto**
@@ -47,22 +47,15 @@
 </p>
 
 ## 📺 **Interfaces** 
-Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/).
-<div  style="display:flex;flex-direction:row;">
-  <img src="./public/home.png" alt="favicon" style="object-fit: cover;" width="400" height="300" />
-  &nbsp;
-  &nbsp;
-  <img src="./public/levelUpModal.png" tyle="object-fit: cover;" alt="favicon" width="400" height="300" />
-</div>
-</br>
-  <img src="./public/newChallenge.png" tyle="object-fit: cover;"  alt="favicon" width="400" height="300" />
+Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/).<br/><br/>
+![Gif da interface](https://media.giphy.com/media/C1LgSBW32XJZk8yKYj/giphy.gif)
 <br/>
 <br/>
 
 ## 👨‍💻 **Como executar o projeto**
 
 ### 🔥 Pré requisitos
-Primeiramente será necessário instalar o [NodeJS](https://nodejs.org/en/), [Git](https://git-scm.com).<br/>
+Primeiramente será necessário instalar o [NodeJS](https://nodejs.org/en/) e o [Git](https://git-scm.com).<br/>
 PS: É bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com).
 
 ### ⬇️ Clonando o repositório
@@ -89,7 +82,7 @@ $ yarn dev
 
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000 em qualquer browser.
 ```
-Agora só se divertir e produzir muito! 🚀
+Agora só se divertir e se mover muito! 🚀
 
 ## 🤔 Como contribuir para o projeto
 
@@ -102,6 +95,19 @@ Agora só se divertir e produzir muito! 🚀
 
 Qualquer mudança é bem vinda, sinta-se à vontade! ☺
 
+## 🚀 Melhorias futuras
+
+- Melhorias de interface;
+- Adicionar "Dark mode";
+- Criar tela de login;
+- Login com o github;
+- Login com o google;
+- Login com o facebook;
+- Adicionar responsividade;
+- Criar PWA;
+- Criar ranking.
+- Criar app (Android e iOS).
+- Adicionar testes com jest.
 
 
 
