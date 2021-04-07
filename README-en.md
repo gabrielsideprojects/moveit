@@ -2,7 +2,7 @@
    <img src="https://raw.githubusercontent.com/tavareshenrique/moveit-nlw/0b786b8b8a18788f7d854a176a26e9ccc3d5f28a/public/logo.svg" alt="MoveIt" width="280"/>
 </p>
 <p align="center">
-  Move it and your life will be healthier💜
+  Move it and your life will be healthier 💜
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/gabrielmenezesdev/">
@@ -43,7 +43,7 @@
 <img src="./public/favicon.png" alt="favicon" width="20" style="float:left;"/>
   &nbsp;<a target="_blank" href="https://moveitnow-phi.vercel.app">Moveitnow</a> is project made for who passes a lot of time using the computer. Using the productivity methodology <a target="_blank" href="https://www.youtube.com/watch?v=mNBmG24djoY">Pomodoro 🍅</a>, at each rest interval, it's shown a exercise which must be done for when the user comes back to the work, his productivity will reach the next level. 🚀
 
-  This project was made during the NLW04, learning programming week offered by<a target="_blank" href="https://rocketseat.com.br">Rocketseat</a> 💜.
+  This project was made during the NLW04, learning programming week offered by<a target="_blank" href="https://rocketseat.com.br"> Rocketseat</a> 💜.
 </p>
 
 ## 📺 **Interfaces** 
