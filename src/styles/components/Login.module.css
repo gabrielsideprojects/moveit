@@ -42,6 +42,9 @@
   display: flex;
   flex-direction: row;
 }
+.usernameInput::placeholder {
+  color: #b2b9ff;
+}
 .usernameInput {
   padding-left: 15px;
   color: var(--white);
