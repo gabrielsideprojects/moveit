@@ -1,0 +1,78 @@
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  /* background-color: #5965e0; */
+  background: var(--blue) url("../../../public/horizontalStripes.svg") no-repeat
+    left;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding-bottom: 200px;
+  padding-right: 300px;
+}
+.loginFormContainer {
+  display: flex;
+  flex-direction: column;
+  margin-left: 60px;
+}
+
+.welcomeText {
+  font-family: Inter;
+  color: var(--white);
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.doGitHubLoginContainer {
+  flex-direction: row;
+  display: flex;
+  color: #b2b9ff;
+}
+.doGitHubLoginText {
+  font-family: Inter;
+  color: "#B2B9FF";
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-top: 20px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  align-self: center;
+  line-height: 1.5;
+}
+.usernameInputSubmitContainer {
+  display: flex;
+  flex-direction: row;
+}
+.usernameInput::placeholder {
+  color: #b2b9ff;
+}
+.usernameInput {
+  padding-left: 15px;
+  color: var(--white);
+  font-size: 1rem;
+  border: none;
+  font-weight: 500;
+  background: linear-gradient(90deg, #4953b8 0%, rgba(73, 83, 184, 0.2) 100%);
+  width: 280px;
+  outline: none;
+  height: 80px;
+}
+.submitUsernameButton {
+  width: 80px;
+  border: none;
+  flex: 1;
+  height: 80px;
+  background: #4953b8;
+}
+.submitUsernameButton :hover {
+  background: var(--green);
+}
+.arrowRightContainer {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.moveItNowLogo {
+  margin-bottom: 100px;
+}
