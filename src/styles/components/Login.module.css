@@ -15,7 +15,10 @@
   flex-direction: column;
   margin-left: 60px;
 }
-
+.loginFormContainer > label {
+  color: #fff5f5;
+  margin-top: 10px;
+}
 .welcomeText {
   font-family: Inter;
   color: var(--white);
@@ -83,4 +86,15 @@
   width: 1.5rem;
   height: 1.5rem;
   animation: spin 0.5s linear infinite;
+}
+/*
+  Keyframes?
+*/
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
