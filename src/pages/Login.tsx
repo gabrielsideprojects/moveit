@@ -1,10 +1,18 @@
 import { useState } from "react";
 import styles from '../styles/components/Login.module.css'
-
+import {Requests} from '../Utils/Requests'
 
 export function Login() {
     const [username, setUsername] = useState('')
-
+    const [loginIsLoading, setLoginIsLoading] = useState(false)
+ 
+    const handleSubmitGithubUsername = () => {
+        setLoginIsLoading(true)
+            Requests.github.getUserData(username).then(response =>{        
+                setLoginIsLoading(false)
+        
+            })
+    }
     return (
         <div className={styles.container}>
 
@@ -23,9 +31,12 @@ export function Login() {
                         value={username} 
                         onChange={event => setUsername(event.target.value)} 
                     />
-                    <button className={styles.submitUsernameButton}>
+                    <button onClick={handleSubmitGithubUsername} className={styles.submitUsernameButton}>
                         <div className={styles.arrowRightContainer}>
-                            <img src="arrowRight.svg" alt="Horizontal"/>
+                            {
+                                loginIsLoading ?  <div className={styles.loader}/> :  
+                                  <img src="arrowRight.svg" alt="Horizontal"/>
+                            }
                         </div>
                     </button>
                 </div>

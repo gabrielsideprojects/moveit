@@ -76,3 +76,11 @@
 .moveItNowLogo {
   margin-bottom: 100px;
 }
+.loader {
+  border: 3px solid var(--gray-line);
+  border-top: 3px solid var(--blue);
+  border-radius: 50%;
+  width: 1.5rem;
+  height: 1.5rem;
+  animation: spin 0.5s linear infinite;
+}
