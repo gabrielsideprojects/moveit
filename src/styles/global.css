@@ -23,6 +23,13 @@
 body {
   background: var(--background);
   color: var(--text);
+  height: 100%;
+}
+html {
+  height: 100%;
+}
+#__next {
+  height: 100%;
 }
 :root {
   --white: #fff;
